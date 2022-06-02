@@ -3,8 +3,8 @@
 #include <WiFi.h>
 
 
-const char* ssid = "Xiaomi_11T_Pro";
-const char* password = "f5cbd8a82232";
+const char* ssid = "Mi Ada";
+const char* password = "telefono4ada";
 
 WiFiServer server(80);
 
