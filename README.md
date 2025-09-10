@@ -292,7 +292,7 @@ void loop(){
             client.println("text-decoration: none; font-size: 30px; margin: 2px; cursor: pointer;}");
             client.println(".button2 {background-color: #555555;}</style></head>");
             
-            // Cabezera de la página web
+            // Cabecera de la página web
             client.println("<body><h1>ESP32 Web Server</h1>");
             
             // estado del display (web) y de los botones ON/OFF para el pin 26   
@@ -326,7 +326,7 @@ void loop(){
         }
       }
     }
-    // limpia la variable de la cabezera 
+    // limpia la variable de la cabecera 
     header = "";
     // cierra conexión 
     client.stop();
