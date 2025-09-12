@@ -171,6 +171,13 @@ void loop() {
    - Open a browser and navigate to the ESP32 IP shown in the Serial Monitor
    - Use the ON/OFF buttons on the web page to control LED1 and LED2
 
+### Resources
+- **Video Demonstration in Spanish:** [Watch video](assets/practica3extra.mp4)  
+- **ESP32 Documentation:** [Espressif ESP32](https://docs.espressif.com/projects/esp-idf/en/stable/esp32/index.html)  
+- **ESP32 Wi-Fi Documentation:** [ESP32 Wi-Fi API](https://docs.espressif.com/projects/esp-idf/en/stable/esp32/api-reference/network/esp_wifi.html)  
+- **Arduino Wi-Fi Library Reference:** [Arduino WiFi](https://www.arduino.cc/en/Reference/WiFi)  
+
+
 # Práctica 3 Extra: Servidor Web ESP32 con 2 LEDs (Versión en Español)
 
 ## Materiales
@@ -364,4 +371,7 @@ void loop(){
    - Usa los botones ON/OFF de la página web para controlar LED1 y LED2
 
 ### Recursos
-- Video explicativo en español sobre el servidor web y control de LEDs: [Ver video](assets/practica3extra.mp4)
+- **Video demostrativo en español:** [Ver video](assets/practica3extra.mp4) 
+- **Documentación del ESP32:** [Espressif ESP32](https://docs.espressif.com/projects/esp-idf/en/stable/esp32/index.html)  
+- **Documentación de Wi-Fi en ESP32:** [ESP32 Wi-Fi API](https://docs.espressif.com/projects/esp-idf/en/stable/esp32/api-reference/network/esp_wifi.html)  
+- **Referencia de la librería Wi-Fi en Arduino:** [Arduino WiFi](https://www.arduino.cc/en/Reference/WiFi)  
