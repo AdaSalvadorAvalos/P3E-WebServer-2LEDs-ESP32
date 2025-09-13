@@ -374,5 +374,5 @@ void loop(){
 - **Video demostrativo en español:** [Ver video](assets/practica3extra.mp4) 
 - **Documentación del ESP32:** [Espressif ESP32](https://docs.espressif.com/projects/esp-idf/en/stable/esp32/index.html)  
 - **Documentación de Wi-Fi en ESP32:** [ESP32 Wi-Fi API](https://docs.espressif.com/projects/esp-idf/en/stable/esp32/api-reference/network/esp_wifi.html)  
-
 - **Referencia de la librería Wi-Fi en Arduino:** [Arduino WiFi](https://www.arduino.cc/en/Reference/WiFi)  
+
