@@ -186,7 +186,7 @@ void loop() {
 - 2 LEDs
 
 
-## Introducción
+## Introducción
 
 En esta práctica, para mi curso de Procesadores Digitales, aprendí a usar el periférico Wi-Fi del ESP32 para crear un servidor web. Este servidor permite controlar 2 LEDs: cada LED tiene su propio botón ON/OFF en la página web. Al hacer clic en un botón, el LED correspondiente se enciende o apaga.
 
@@ -374,4 +374,5 @@ void loop(){
 - **Video demostrativo en español:** [Ver video](assets/practica3extra.mp4) 
 - **Documentación del ESP32:** [Espressif ESP32](https://docs.espressif.com/projects/esp-idf/en/stable/esp32/index.html)  
 - **Documentación de Wi-Fi en ESP32:** [ESP32 Wi-Fi API](https://docs.espressif.com/projects/esp-idf/en/stable/esp32/api-reference/network/esp_wifi.html)  
+
 - **Referencia de la librería Wi-Fi en Arduino:** [Arduino WiFi](https://www.arduino.cc/en/Reference/WiFi)  
